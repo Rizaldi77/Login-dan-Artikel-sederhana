@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="upn">UPN "Veteran"  Yogyakarta</string>
+    <string name="alamat_upn">Kampus satu : Jl. Padjajaran, Sleman, Yogyakarta</string>
+    <string name="alamat_upn2">Kampus dua : Jl. Babarsari 2 Yogyakarta</string>
+    <string name="about">Universitas Pembangunan Nasional "Veteran" Yogyakarta atau biasa disingkat UPN "Veteran", merupakan salah satu Perguruan Tinggi Negeri (PTN) di Indonesia yang berlokasi di Kecamatan Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Pada saat didirikan, UPN "Veteran" Yogyakarta hanya memiliki 3 jurusan. Sekarang UPN "Veteran" Yogyakarta memiliki 5 fakultas yang terdiri dari 1 program studi untuk D-3, 21 program studi untuk S-1, 8 program studi untuk S-2, serta 1 program studi untuk S-3.</string>
+</resources>
